@@ -1,0 +1,22 @@
+/home/azatates7/Downloads/tryanddelete/bin/Debug/netcoreapp2.2/tryanddelete.deps.json
+/home/azatates7/Downloads/tryanddelete/bin/Debug/netcoreapp2.2/tryanddelete.runtimeconfig.json
+/home/azatates7/Downloads/tryanddelete/bin/Debug/netcoreapp2.2/tryanddelete.runtimeconfig.dev.json
+/home/azatates7/Downloads/tryanddelete/bin/Debug/netcoreapp2.2/tryanddelete.dll
+/home/azatates7/Downloads/tryanddelete/bin/Debug/netcoreapp2.2/tryanddelete.pdb
+/home/azatates7/Downloads/tryanddelete/obj/Debug/netcoreapp2.2/tryanddelete.csprojAssemblyReference.cache
+/home/azatates7/Downloads/tryanddelete/obj/Debug/netcoreapp2.2/tryanddelete.csproj.CoreCompileInputs.cache
+/home/azatates7/Downloads/tryanddelete/obj/Debug/netcoreapp2.2/tryanddelete.AssemblyInfoInputs.cache
+/home/azatates7/Downloads/tryanddelete/obj/Debug/netcoreapp2.2/tryanddelete.AssemblyInfo.cs
+/home/azatates7/Downloads/tryanddelete/obj/Debug/netcoreapp2.2/tryanddelete.dll
+/home/azatates7/Downloads/tryanddelete/obj/Debug/netcoreapp2.2/tryanddelete.pdb
+/home/azatates7/Downloads/staj/C# MySQL Implements/bin/Debug/netcoreapp2.2/C# MySQL Implements.deps.json
+/home/azatates7/Downloads/staj/C# MySQL Implements/bin/Debug/netcoreapp2.2/C# MySQL Implements.runtimeconfig.json
+/home/azatates7/Downloads/staj/C# MySQL Implements/bin/Debug/netcoreapp2.2/C# MySQL Implements.runtimeconfig.dev.json
+/home/azatates7/Downloads/staj/C# MySQL Implements/bin/Debug/netcoreapp2.2/C# MySQL Implements.dll
+/home/azatates7/Downloads/staj/C# MySQL Implements/bin/Debug/netcoreapp2.2/C# MySQL Implements.pdb
+/home/azatates7/Downloads/staj/C# MySQL Implements/obj/Debug/netcoreapp2.2/C# MySQL Implements.csprojAssemblyReference.cache
+/home/azatates7/Downloads/staj/C# MySQL Implements/obj/Debug/netcoreapp2.2/C# MySQL Implements.csproj.CoreCompileInputs.cache
+/home/azatates7/Downloads/staj/C# MySQL Implements/obj/Debug/netcoreapp2.2/C# MySQL Implements.AssemblyInfoInputs.cache
+/home/azatates7/Downloads/staj/C# MySQL Implements/obj/Debug/netcoreapp2.2/C# MySQL Implements.AssemblyInfo.cs
+/home/azatates7/Downloads/staj/C# MySQL Implements/obj/Debug/netcoreapp2.2/C# MySQL Implements.dll
+/home/azatates7/Downloads/staj/C# MySQL Implements/obj/Debug/netcoreapp2.2/C# MySQL Implements.pdb
